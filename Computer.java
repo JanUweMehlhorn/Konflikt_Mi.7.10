@@ -2,6 +2,7 @@ public class Computer
 {
    private String hersteller;
    private boolean laptop;
+   private int prozessoren;
    private int hauptspeicher;
 
    public Computer()
