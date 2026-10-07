@@ -8,7 +8,7 @@ public class Computer
    {
       setHersteller("Lenovo");
       setLaptop(true);
-      setHauptspeicher(4000);
+      setHauptspeicher(4000000);
    }
 
    public Computer(String hersteller, boolean laptop, int hauptspeicher)
